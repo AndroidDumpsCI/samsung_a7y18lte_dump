@@ -1,0 +1,5 @@
+com.srbr.UWT.stk1RRO
+com.srbr.UWT.stk2RRO
+com.amazon.mShop.android.shopping
+com.amazon.appmanager
+com.amazon.appmanager
