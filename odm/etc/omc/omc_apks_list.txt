@@ -1,0 +1,4 @@
+/odm/app/apps_brasil_signed_aligned/apps_brasil_signed_aligned.apk
+/odm/app/SamsungMax/SamsungMax.apk
+/odm/app/UserManual/UserManual.apk
+/odm/priv-app/com.dti.samsung_Ignite/com.dti.samsung_Ignite.apk

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A750G</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OWO</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A750GOWO</CSCName>
+        <CSCVersion>6CUE1</CSCVersion>
+        <NbCustomer>13</NbCustomer>
+        <CustomerData src="/Customer/TPA/customer.xml" />
+        <CustomerData src="/Customer/ZTO/customer.xml" />
+        <CustomerData src="/Customer/EON/customer.xml" />
+        <CustomerData src="/Customer/BVO/customer.xml" />
+        <CustomerData src="/Customer/CHO/customer.xml" />
+        <CustomerData src="/Customer/UPO/customer.xml" />
+        <CustomerData src="/Customer/GTO/customer.xml" />
+        <CustomerData src="/Customer/UYO/customer.xml" />
+        <CustomerData src="/Customer/DOO/customer.xml" />
+        <CustomerData src="/Customer/PEO/customer.xml" />
+        <CustomerData src="/Customer/ARO/customer.xml" />
+        <CustomerData src="/Customer/MXO/customer.xml" />
+        <CustomerData src="/Customer/COO/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ARO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_ARO_QQ_0008</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BVO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_BVO_QQ_0010</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CHO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_CHO_QQ_0006</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>COO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_COO_QQ_0007</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>DOO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_DOO_QQ_0007</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>EON</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_EON_QQ_0016</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>GTO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_GTO_QQ_0013</Version>
+            <CustomerEdition>ED0011</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MXO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_MXO_QQ_0013</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PEO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_PEO_QQ_0006</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TPA</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_TPA_QQ_0011</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>UPO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_UPO_QQ_0008</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>UYO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_UYO_QQ_0007</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ZTO</CustomerCode>
+            <Version>SAOMC_SM-A750G_OWO_ZTO_QQ_0016</Version>
+            <CustomerEdition>ED0009</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.android.brdigitalaccount" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

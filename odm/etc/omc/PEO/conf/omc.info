@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A750G_OWO_PEO_QQ_0006</version>
+  <model>
+    <name>SM-A750G</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0001</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>4</carrierCount>
+    <carrier>
+      <mcc>716</mcc>
+      <mnc>06</mnc>
+      <networkName>movistar</networkName>
+    </carrier>
+    <carrier>
+      <mcc>716</mcc>
+      <mnc>10</mnc>
+      <networkName>Claro</networkName>
+    </carrier>
+    <carrier>
+      <mcc>716</mcc>
+      <mnc>15</mnc>
+      <networkName>Bitel</networkName>
+    </carrier>
+    <carrier>
+      <mcc>716</mcc>
+      <mnc>17</mnc>
+      <networkName>entel</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>
